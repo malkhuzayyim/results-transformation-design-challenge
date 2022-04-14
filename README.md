@@ -1,4 +1,4 @@
-# balance-sheet-design-challenge-challenge
+# balance-sheet-design-challenge
 
 This sample challenge is initialized with Vue 2 & Vuetify 2 latest releases at the time of creation.
 
